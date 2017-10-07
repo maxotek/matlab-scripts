@@ -20,8 +20,9 @@ generatoreXilinx-COE:
 
 crc-checksumme
 
-	- script to calculate crc16 and crc32 checksumme in Matlab
+	- script to calculate crc16 and crc32 checksumme in Matlab.
 
+Validate using [CRC32 Calculator](https://toolslick.com/crc32-calculator)
 
 FTD2XX-dotNET
 
